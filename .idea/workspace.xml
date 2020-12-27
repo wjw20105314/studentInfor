@@ -1,7 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ecfcb63-e856-4412-b179-bc3361b1034a" name="Default Changelist" comment="" />
+    <list default="true" id="5ecfcb63-e856-4412-b179-bc3361b1034a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exe程序生成脚本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python安装相关.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/村账号.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/geneHelpCardDoc_hj.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会001邓桂连.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会003李维聪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会004黄杏霞.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会005李峰.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会007李献广.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会008陈后兴.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会009吴玉明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会010周美洪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会011李恒.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会012李艳.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会013李献光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会014李学智.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会015陈创.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会017黄奇荣.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会018李学宾.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会019戴琴玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会021李涛.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会022陈仕英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会023陈锦春.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会024陈小玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会025李武生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会026李密.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会027李妃生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会028李妃九.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会029李成.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会031卢朱.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会032戴锦秀.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会033陈后玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会034陈远晶.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会037李妃玩.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会038李妃康.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会039李献齐.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会040郑丽建.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会042陈美英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会043陈妃二.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会044陈童.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会045李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会046李利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会047周美壹.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会049李远.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会050陈惠球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会051李妃太.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会052李凤.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会053周再.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会054陈妃求.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会055李三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会056周洪梅.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会057陈秋龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会058李晨光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会059李中.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会060李树.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会061李献权.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会062李维陆.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会063李妃利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会065李妃三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会067王华玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会068陈胜.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会069王少球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会070李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会071陈秀玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会072李妃龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会073李学适.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会074陈朝.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会075李长.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会076周林.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/海角经济收入调查表/海角村委会077李妃南.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会001邓桂连.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会003李维聪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会004黄杏霞.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会005李峰.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会007李献广.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会008陈后兴.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会009吴玉明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会010周美洪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会011李恒.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会012李艳.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会013李献光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会014李学智.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会015陈创.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会017黄奇荣.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会018李学宾.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会019戴琴玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会021李涛.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会022陈仕英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会023陈锦春.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会024陈小玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会025李武生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会026李密.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会027李妃生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会028李妃九.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会029李成.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会031卢朱.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会032戴锦秀.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会033陈后玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会034陈远晶.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会037李妃玩.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会038李妃康.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会039李献齐.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会040郑丽建.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会042陈美英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会043陈妃二.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会044陈童.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会045李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会046李利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会047周美壹.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会049李远.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会050陈惠球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会051李妃太.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会052李凤.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会053周再.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会054陈妃求.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会055李三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会056周洪梅.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会057陈秋龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会058李晨光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会059李中.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会060李树.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会061李献权.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会062李维陆.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会063李妃利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会065李妃三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会067王华玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会068陈胜.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会069王少球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会070李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会071陈秀玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会072李妃龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会073李学适.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会074陈朝.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会075李长.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会076周林.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/hjsr/统计表最新程序/海角经济收入调查表/海角村委会077李妃南.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会003李维聪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会005李峰.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会007李献广.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会008陈后兴.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会009吴玉明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会010周美洪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会011李恒.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会012李艳.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会013李献光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会014李学智.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会015陈创.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会017黄奇荣.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会018李学宾.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会019戴琴玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会021李涛.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会022陈仕英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会023陈锦春.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会024陈小玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会025李武生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会026李密.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会027李妃生.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会028李妃九.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会029李成.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会031卢朱.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会032戴锦秀.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会033陈后玉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会034陈远晶.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会037李妃玩.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会038李妃康.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会039李献齐.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会040郑丽建.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会042陈美英.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会043陈妃二.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会044陈童.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会045李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会046李利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会047周美壹.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会049李远.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会050陈惠球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会051李妃太.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会052李凤.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会053周再.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会054陈妃求.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会055李三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会056周洪梅.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会057陈秋龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会058李晨光.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会059李中.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会060李树.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会061李献权.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会062李维陆.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会063李妃利.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会065李妃三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会067王华玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会068陈胜.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会069王少球.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会070李妃华.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会071陈秀玲.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会072李妃龙.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会073李学适.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会074陈朝.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会075李长.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会076周林.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/海角/海角村帮扶明白卡/海角村委会077李妃南.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +414,7 @@
       <workItem from="1605665082556" duration="33589000" />
       <workItem from="1607051688201" duration="2099000" />
       <workItem from="1607387038743" duration="8031000" />
-      <workItem from="1609070877067" duration="305000" />
+      <workItem from="1609070877067" duration="931000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交">
       <created>1606028502390</created>
@@ -228,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609071006181</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初次提交">
+      <created>1609071472428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609071472428</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,10 +512,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1603886234113" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1609070979486">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1609071466915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609070979486" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609071466915" />
     <state width="1278" height="440" key="DebuggerActiveHint" timestamp="1605227399615">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -351,10 +560,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605595841741" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609071163848">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609071813537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609071163848" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609071813537" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1605174668583">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -363,6 +572,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609070878535" />
+    <state x="331" y="143" key="git4idea.merge.GitPullDialog" timestamp="1609071802857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="331" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1609071802857" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605098396397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

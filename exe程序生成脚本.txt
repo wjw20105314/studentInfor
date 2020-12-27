@@ -1,0 +1,9 @@
+cd D:\Program Files (x86)\python\Scripts
+
+pyinstaller -F app.py
+
+
+
+eg:
+
+pyinstaller -F D:\python\studentInfor\geneHelpCardDoc.py
