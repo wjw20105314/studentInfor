@@ -1,0 +1,10 @@
+2020-12-04 11:39:11
+打印异常日志：
+Traceback (most recent call last):
+  File "D:/python/studentInfor/海角/geneHelpCardDoc_hj.py", line 21, in <module>
+    config.read('properties_help_hj.conf', encoding='utf-8-sig')
+  File "D:\Program Files (x86)\python\lib\configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "D:\Program Files (x86)\python\lib\configparser.py", line 1092, in _read
+    fpname, lineno)
+configparser.DuplicateOptionError: While reading from 'properties_help_hj.conf' [line 27]: option 'file_name7' in section 'fileCofig' already exists
