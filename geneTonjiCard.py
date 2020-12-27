@@ -48,7 +48,7 @@ try:
         key1 = cell_2d_18 + cell_2e_18 + cell_2f_18
 
         # 年末人口
-        cell_2k_18 = ws1['K' + str(i)].value
+        cell_2k_18 = int(ws1['K' + str(i)].value)
 
         # 取总收入
         cell_2p_18 = float(ws1['P' + str(i)].value)
@@ -127,7 +127,7 @@ try:
         key2 = cell_2d_19 + cell_2e_19 + cell_2f_19
 
         # 年末人口
-        cell_2k_19 = ws2['K' + str(i)].value
+        cell_2k_19 = int(ws2['K' + str(i)].value)
 
         # 取总收入
         cell_2p_19 = float(ws2['P' + str(i)].value)
@@ -205,7 +205,7 @@ try:
         key3 = cell_2d_20 + cell_2e_20 + cell_2f_20
 
         # 年末人口
-        cell_2k_20 = ws3['K' + str(i)].value
+        cell_2k_20 = int(ws3['K' + str(i)].value)
 
         # 取总收入
         cell_2p_20 = float(ws3['P' + str(i)].value)

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ecfcb63-e856-4412-b179-bc3361b1034a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_hj.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties_help_hj.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geneHelpCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/geneHelpCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geneHelpCardDoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/geneHelpCardDoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geneHelpCard_backup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geneTonjiCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/geneTonjiCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model - 副本 (2).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model - 副本.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.docx" beforeDir="false" afterPath="$PROJECT_DIR$/model.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_tongji.docx" beforeDir="false" afterPath="$PROJECT_DIR$/model_tongji.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人措施查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/个人措施查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/人口指标查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/人口指标查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会001温来先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会005龙仁.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会006温林桂.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会007温梅妹.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会008温会昌.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会009鄢永珍.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会010温朋英.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会011温展文.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会012温琼声.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会013温会良.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会014温振群.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会015温锦开.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会016温仕清.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会017温丽珍.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会018甘幼妹.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会019温尚文.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会020温兆钦.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会021彭陈伟.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会022温亮.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会023温剑清.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会024温国贡.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会025温必永.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会026温寿捷.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会027温云雷.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会028温良怀.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会029温乃根.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会030温集奎.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会031温捷信.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会032温志成.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会033温志坚.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会034温锦载.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会035温机声.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会036温聚荣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会037温新昌.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会038温远城.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会039温彩灵.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会040温玉声.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会041温远芳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会042何珍妹.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会043温宪灵.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会044温远良.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会045温捷灵.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会046温世豪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会047温子荣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/先河村帮扶明白卡/先河村委会048温志营.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会001温锡梅.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会002温石泉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会003温秀声.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会004温美灵.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会005温凤秋.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会006温银招.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会007温荫彬.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会008何会香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会009温展钢.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会010温清娇.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会011温展煌.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会012温金雨.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会013温均照.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会014温朵娇.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会015温作龙.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会016温会良.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会017温育才.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会018温容深.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会019温展夫.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会020温万仁.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会021温俊森.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会022温兰溪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会023温锦南.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会024温南京.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会025温锡贤.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会026叶云芳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会027温善艳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会028温剑标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会029温新禧.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会030温少伦.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会031温金先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会032温显标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会033温醒琴.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会034温奕高.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会035温奕青.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会036温文才.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会037刘定优.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会038温运尧.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会039温自少.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会040温存秀.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会041温茂文.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会042温南华.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会044温志坚.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会045钟志玉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会046温廷香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会047温兰英.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会048温胜攀.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会050温仲兴.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会051温万如.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会052温展雄.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会053温寿雄.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会054温象其.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会055温素招.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会056温明访.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会057温展希.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会058温汉聪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会059温少扬.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会061温寿环.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会063刘林友.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会064温运康.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会065温铁泉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会066温发先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会067温万均.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会069温金华.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会070温伦照.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会071温锦坤.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会072温仅零.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会074温晋丰.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会077温召欣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会078温百深.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧村帮扶明白卡/大梧村委会079温佰其.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会001温锡梅.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会002温石泉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会003温秀声.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会004温美灵.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会005温凤秋.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会006温银招.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会007温荫彬.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会008何会香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会009温展钢.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会010温清娇.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会011温展煌.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会012温金雨.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会013温均照.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会014温朵娇.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会015温作龙.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会016温会良.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会017温育才.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会018温容深.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会019温展夫.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会020温万仁.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会021温俊森.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会022温兰溪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会023温锦南.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会024温南京.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会025温锡贤.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会026叶云芳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会027温善艳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会028温剑标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会029温新禧.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会030温少伦.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会031温金先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会032温显标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会033温醒琴.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会034温奕高.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会035温奕青.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会036温文才.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会037刘定优.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会038温运尧.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会039温自少.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会040温存秀.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会041温茂文.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会042温南华.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会044温志坚.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会045钟志玉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会046温廷香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会047温兰英.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会048温胜攀.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会050温仲兴.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会051温万如.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会052温展雄.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会053温寿雄.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会054温象其.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会055温素招.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会056温明访.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会057温展希.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会058温汉聪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会059温少扬.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会061温寿环.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会063刘林友.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会064温运康.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会065温铁泉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会066温发先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会067温万均.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会069温金华.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会070温伦照.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会071温锦坤.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会072温仅零.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会074温晋丰.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会077温召欣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会078温百深.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表/大梧村委会079温佰其.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大梧经济收入调查表表.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会001黄汉青.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会001黄汉青.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会001黄汉青.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会002黄冬发.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会002黄冬发.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会002黄冬发.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会003黄瑞孟.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会003黄瑞孟.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会003黄瑞孟.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会004黄文强.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会004黄文强.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会004黄文强.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会005黄瑞干.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会005黄瑞干.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会005黄瑞干.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会006张妹娇.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会006张妹娇.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会006张妹娇.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会007黄顺扬.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会007黄顺扬.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会007黄顺扬.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会008黄友芝.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会008黄友芝.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会008黄友芝.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会009黄远航.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会009黄远航.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会009黄远航.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会010黄瑜.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会010黄瑜.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会010黄瑜.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会011黄婷凤.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会011黄婷凤.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会011黄婷凤.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会012黄远辉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会012黄远辉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会012黄远辉.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会013黄瑞林.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会013黄瑞林.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会013黄瑞林.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会014黄有贤.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会014黄有贤.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会014黄有贤.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会015黄耀华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会015黄耀华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会015黄耀华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会016郑月兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会016郑月兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会016郑月兰.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会017张美花.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会017张美花.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会017张美花.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会018黄河挺.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会018黄河挺.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会018黄河挺.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会019黄瑞庆.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会019黄瑞庆.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会019黄瑞庆.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会020黄双金.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会020黄双金.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会020黄双金.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会021张淑丽.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会021张淑丽.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会021张淑丽.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会022黄佳锐.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会022黄佳锐.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会022黄佳锐.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会023黄瑞兴.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会023黄瑞兴.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会023黄瑞兴.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会024黄佳衅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会024黄佳衅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会024黄佳衅.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会025黄瑞华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会025黄瑞华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会025黄瑞华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会026黄细纯.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会026黄细纯.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会026黄细纯.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会027蔡礼美.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会027蔡礼美.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会027蔡礼美.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会028黄良迁.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会028黄良迁.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会028黄良迁.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会029黄海泉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会029黄海泉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会029黄海泉.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会030黄佳恒.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会030黄佳恒.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会030黄佳恒.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会031黄京华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会031黄京华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会031黄京华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会032黄利周.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会032黄利周.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会032黄利周.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会033黄细欣.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会033黄细欣.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会033黄细欣.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会034黄细顺.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会034黄细顺.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会034黄细顺.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会035黄会余.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会035黄会余.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会035黄会余.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会036黄佳欢.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会036黄佳欢.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会036黄佳欢.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会037黄俊杰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会037黄俊杰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会037黄俊杰.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会038黄立圩.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会038黄立圩.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会038黄立圩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会039黄超英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会039黄超英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会039黄超英.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会040黄立喜.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会040黄立喜.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会040黄立喜.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会041黄秀美.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会041黄秀美.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会041黄秀美.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会042曾曲芳.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会042曾曲芳.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会042曾曲芳.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会043曾祥盛.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会043曾祥盛.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会043曾祥盛.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会044候玉娇.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会044候玉娇.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会044候玉娇.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会045黄瑞立.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会045黄瑞立.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会045黄瑞立.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会046黄佳宏.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会046黄佳宏.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会046黄佳宏.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会047黄有日.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会047黄有日.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会047黄有日.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会048罗冬兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会048罗冬兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会048罗冬兰.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会049黄炳金.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会049黄炳金.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会049黄炳金.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会050黄佳助.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会050黄佳助.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会050黄佳助.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会051黄立运.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会051黄立运.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会051黄立运.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会052黄华程.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会052黄华程.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会052黄华程.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会053黄瑞团.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会053黄瑞团.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会053黄瑞团.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会054黄奕红.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会054黄奕红.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会054黄奕红.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会055黄细坤.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会055黄细坤.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会055黄细坤.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会056黄佳好.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会056黄佳好.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会056黄佳好.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会057黄瑞县.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会057黄瑞县.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会057黄瑞县.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会058黄立串.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会058黄立串.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会058黄立串.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会059黄洪章.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会059黄洪章.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会059黄洪章.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会060黄有换.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会060黄有换.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会060黄有换.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会062谢友枝.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会062谢友枝.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会062谢友枝.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会063黄国城.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会063黄国城.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会063黄国城.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会064黄佳立.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会064黄佳立.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会064黄佳立.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会065黄瑞强.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会065黄瑞强.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会065黄瑞强.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会066黄建明.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会066黄建明.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会066黄建明.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会067黄接河.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会067黄接河.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会067黄接河.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会070黄浩双.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会070黄浩双.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会070黄浩双.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会072黄永安.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会072黄永安.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会072黄永安.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会073黄育山.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会073黄育山.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会073黄育山.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会074黄佳允.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会074黄佳允.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会074黄佳允.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会076黄一见.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会076黄一见.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会076黄一见.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会077黄春文.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会077黄春文.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会077黄春文.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会080黄瑞河.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会080黄瑞河.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会080黄瑞河.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会082黄味华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会082黄味华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会082黄味华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会083黄信英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会083黄信英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会083黄信英.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会085罗名博.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会085罗名博.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会085罗名博.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会086黄新光.docx" beforeDir="false" afterPath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会086黄新光.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大罗村帮扶明白卡/大罗村委会086黄新光.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/学生教育数据.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/学生教育数据1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/帮扶干部查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/帮扶干部查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/户指标查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/户指标查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/户措施查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/户措施查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/措施年度收支统计.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/措施年度收支统计.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/措施年度收支统计18.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/措施年度收支统计19.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/措施年度收支统计20.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会001何坤华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会001何坤华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会002邹秀庭.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会002邹秀庭.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会003刘旭.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会003刘旭.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会004刘运东.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会004刘运东.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会005刘开良.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会005刘开良.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会006何妙清.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会006何妙清.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会007黄华英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会007黄华英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会008林达浓.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会008林达浓.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会010林达明.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会010林达明.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会011何柏伦.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会011何柏伦.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会012何必毫.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会012何必毫.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会013何彩连.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会013何彩连.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会015何少波.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会015何少波.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会016何现崇.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会016何现崇.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会017何职和.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会017何职和.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会018邹爱梅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会018邹爱梅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会019何彩梅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会019何彩梅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会020何伟通.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会020何伟通.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会021何春泉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会021何春泉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会022何聚光.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会022何聚光.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会023何高凡.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会023何高凡.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会024何崇杰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会024何崇杰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会025何妙委.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会025何妙委.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会026何果兆.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会026何果兆.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会027何百先.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会027何百先.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会028何鲸添.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会028何鲸添.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会029何桂松.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会029何桂松.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会030刘远平.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会030刘远平.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会031温元妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会031温元妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会032何晓铧.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会032何晓铧.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会033何志明.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会033何志明.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会034何新华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会034何新华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会035何吉凡.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会035何吉凡.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会036何绍凯.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会036何绍凯.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会037何现样.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会037何现样.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会038钟秀兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会038钟秀兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会040何加成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会040何加成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会042何新爱.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会042何新爱.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会043何汉中.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会043何汉中.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会044何建帆.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会044何建帆.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会045罗应香.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会045罗应香.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会046何伦先.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会046何伦先.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会047何绍丁.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会047何绍丁.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会048何新升.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会048何新升.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会049何果超.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会049何果超.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会050温月清.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会050温月清.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会051何达浓.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会051何达浓.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会052何现营.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会052何现营.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会053何果朋.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会053何果朋.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会054何叠光.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会054何叠光.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会055温八妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会055温八妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会056何玉英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会056何玉英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会057温平妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会057温平妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会058何兆粘.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会058何兆粘.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会059何新华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会059何新华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会061何喜华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会061何喜华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会062何溪先.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会062何溪先.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会063何帝良.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会063何帝良.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会065何济谦.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会065何济谦.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会066何远珍.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会066何远珍.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会067何桂林.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会067何桂林.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会068何友成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会068何友成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会069何世和.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会069何世和.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会070古就妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会070古就妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会071何俊礼.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会071何俊礼.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会072何育增.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会072何育增.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会073温会红.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会073温会红.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会074钟拾妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会074钟拾妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会076何暂成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会076何暂成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会077何可成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会077何可成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会078何济权.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会078何济权.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会079刘彩香.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会079刘彩香.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会080刘育丘.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会080刘育丘.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会081刘任锡.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会081刘任锡.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会083何妙成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会083何妙成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会084何井田.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会084何井田.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会086刘达高.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会086刘达高.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会087刘知样.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会087刘知样.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会088刘浪德.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会088刘浪德.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会090何伟荣.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会090何伟荣.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会091何天保.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会091何天保.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会092何召龙.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会092何召龙.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会093温木珍.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会093温木珍.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会094何妙安.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会094何妙安.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会095何定汉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会095何定汉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会096何彩洲.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会096何彩洲.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会097黄赐乃.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会097黄赐乃.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会098何祝成.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会098何祝成.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会099何中奕.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会099何中奕.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会100邓燕清.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会100邓燕清.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会101林春梅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会101林春梅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会102何崇青.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会102何崇青.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会103何展根.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会103何展根.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会104何展怀.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会104何展怀.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会105何玉贵.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会105何玉贵.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会106古彩兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会106古彩兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会107刘宏良.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会107刘宏良.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会108钟秀兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会108钟秀兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会109何伟集.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会109何伟集.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会110何卫球.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会110何卫球.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会111何日放.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会111何日放.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会112何志光.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会112何志光.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会113古段妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会113古段妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会114刘伟平.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会114刘伟平.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会115刘定良.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会115刘定良.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会116刘培祥.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会116刘培祥.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会117何远珠.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会117何远珠.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会118刘知尧.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会118刘知尧.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会119刘知高.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会119刘知高.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会120刘学元.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会120刘学元.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会121何达群.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会121何达群.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会122刘育立.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会122刘育立.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会123刘专科.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会123刘专科.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会124刘荡云.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会124刘荡云.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会125刘春胜.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会125刘春胜.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会127刘拔时.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会127刘拔时.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会128何旺升.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会128何旺升.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会129刘知练.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会129刘知练.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会133刘开时.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会133刘开时.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会134龙利浓.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会134龙利浓.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会135何兆邦.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会135何兆邦.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会136何西岳.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会136何西岳.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会137何广新.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会137何广新.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会139何伟宣.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会139何伟宣.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会143何良华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/樟华村帮扶明白卡/樟华村委会143何良华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会001邓桂连.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会003李维聪.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会004黄杏霞.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会005李峰.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会007李献广.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会008陈后兴.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会009吴玉明.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会010周美洪.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会011李恒.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会012李艳.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会013李献光.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会014李学智.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会015陈创.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会017黄奇荣.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会018李学宾.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会019戴琴玲.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会021李涛.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会022陈仕英.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会023陈锦春.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会024陈小玉.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会025李武生.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会026李密.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会027李妃生.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会028李妃九.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会029李成.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会031卢朱.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会032戴锦秀.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会033陈后玉.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会034陈远晶.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会037李妃玩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会038李妃康.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会039李献齐.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会040郑丽建.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会042陈美英.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会043陈妃二.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会044陈童.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会045李妃华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会046李利.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会047周美壹.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会049李远.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会050陈惠球.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会051李妃太.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会052李凤.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会053周再.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会054陈妃求.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会055李三.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会056周洪梅.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会057陈秋龙.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会058李晨光.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会059李中.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会060李树.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会061李献权.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会062李维陆.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会063李妃利.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会065李妃三.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会067王华玲.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会068陈胜.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会069王少球.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会070李妃华.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会071陈秀玲.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会072李妃龙.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会073李学适.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会074陈朝.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会075李长.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会076周林.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海角村帮扶明白卡/海角村委会077李妃南.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/行业部门措施查询.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/行业部门措施查询.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A002李林城.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A003李辉云.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A003李辉云.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A004李小金.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A004李小金.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A005李添培.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A005李添培.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A006李均辉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A006李均辉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A007李灼妹.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会A007李灼妹.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B001李惠云.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B001李惠云.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B003李职群.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B003李职群.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B004李锦标.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B004李锦标.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B005李乃标.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B005李乃标.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B006曾运娣.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B006曾运娣.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B007李正飞.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B007李正飞.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B008李庶培.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B008李庶培.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B009李旭兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B009李旭兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B010钟建群.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B010钟建群.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B011李新容.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B011李新容.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B012李伯元.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B012李伯元.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B013魏桂珍.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会B013魏桂珍.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C001李乃华.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C001李乃华.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C002刘亚容.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C002刘亚容.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C004李瑞钦.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C004李瑞钦.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C006钟兆才.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会C006钟兆才.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D001李添香.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D001李添香.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D002李定全.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D002李定全.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D003李惠连.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D003李惠连.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D004李林娣.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D004李林娣.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D005魏俊友.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D005魏俊友.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D007李华盛.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D007李华盛.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D008李惠泉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D008李惠泉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D009李其新.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D009李其新.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D010戴秋容.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D010戴秋容.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D012李志兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D012李志兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D013李顶先.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D013李顶先.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D016李雄新.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D016李雄新.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D017李叔英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D017李叔英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D018李水清.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D018李水清.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D020李小春.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D020李小春.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D022郑宏兰.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D022郑宏兰.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D023李春炳.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D023李春炳.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D024周琼香.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D024周琼香.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D025李菊连.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D025李菊连.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D026李运英.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D026李运英.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D027李志来.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D027李志来.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D028李志双.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D028李志双.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D029李惠城.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D029李惠城.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D030魏智容.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D030魏智容.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D031钟炽柱.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D031钟炽柱.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D032李远雄.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D032李远雄.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D033钟红梅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D033钟红梅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D034钟振发.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D034钟振发.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D035李伟玉.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D035李伟玉.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D036魏育梅.docx" beforeDir="false" afterPath="$PROJECT_DIR$/西湖村帮扶明白卡/西湖村委会D036魏育梅.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A002李林城.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A003李辉云.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A004李小金.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A005李添培.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A006李均辉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会A007李灼妹.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B001李惠云.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B003李职群.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B004李锦标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B005李乃标.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B006曾运娣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B007李正飞.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B008李庶培.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B009李旭兰.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B010钟建群.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B011李新容.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B012李伯元.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会B013魏桂珍.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会C001李乃华.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会C002刘亚容.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会C004李瑞钦.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会C006钟兆才.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D001李添香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D002李定全.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D003李惠连.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D004李林娣.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D005魏俊友.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D007李华盛.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D008李惠泉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D009李其新.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D010戴秋容.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D012李志兰.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D013李顶先.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D016李雄新.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D017李叔英.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D018李水清.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D020李小春.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D022郑宏兰.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D023李春炳.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D024周琼香.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D025李菊连.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D026李运英.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D027李志来.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D028李志双.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D029李惠城.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D030魏智容.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D031钟炽柱.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D032李远雄.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D033钟红梅.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D034钟振发.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D035李伟玉.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西湖经济收入调查表/西湖村委会D036魏育梅.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\python\studentInfor\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jVLnURKuETmCE6ZrQRLR5lcnZ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/海角/hjsr" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\studentInfor\海角\hjsr" />
+      <recent name="D:\python\studentInfor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.geneHelpCardDoc">
+    <configuration name="geneHelpCard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geneHelpCard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geneHelpCardDoc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geneHelpCardDoc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geneHelpCardDoc_hj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/海角" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/海角/geneHelpCardDoc_hj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geneTonjiCard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geneTonjiCard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geneTonjiCard_hj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/海角/hjsr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/海角/hjsr/geneTonjiCard_hj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python36" type="PythonConfigurationType" factoryName="Python">
+      <module name="studentInfor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files (x86)\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getStudentInfor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.geneHelpCardDoc" />
+        <item itemvalue="Python.geneTonjiCard_hj" />
+        <item itemvalue="Python.geneHelpCardDoc_hj" />
+        <item itemvalue="Python.geneHelpCard" />
+        <item itemvalue="Python.geneTonjiCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\renshichu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ecfcb63-e856-4412-b179-bc3361b1034a" name="Default Changelist" comment="" />
+      <created>1603884478480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603884478480</updated>
+      <workItem from="1603884483366" duration="9814000" />
+      <workItem from="1604906563827" duration="3770000" />
+      <workItem from="1605018202759" duration="502000" />
+      <workItem from="1605018779194" duration="2114000" />
+      <workItem from="1605054867495" duration="56814000" />
+      <workItem from="1605528245165" duration="6221000" />
+      <workItem from="1605588782936" duration="18520000" />
+      <workItem from="1605665082556" duration="33589000" />
+      <workItem from="1607051688201" duration="2099000" />
+      <workItem from="1607387038743" duration="8031000" />
+    </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1606028502390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606028502390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603886362172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1603886362172" />
+    <state x="420" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603886234113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1603886234113" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1609070979486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609070979486" />
+    <state width="1278" height="440" key="DebuggerActiveHint" timestamp="1605227399615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1278" height="440" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1605227399615" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1606029812828">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606029812828" />
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom" timestamp="1607512218418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607512218418" />
+    <state width="1237" height="137" key="GridCell.Tab.0.center" timestamp="1607512218418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607512218418" />
+    <state width="1237" height="137" key="GridCell.Tab.0.left" timestamp="1607512218418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607512218418" />
+    <state width="1237" height="137" key="GridCell.Tab.0.right" timestamp="1607512218418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607512218418" />
+    <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1606642674727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606642674727" />
+    <state width="1237" height="159" key="GridCell.Tab.1.center" timestamp="1606642674726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606642674726" />
+    <state width="1237" height="159" key="GridCell.Tab.1.left" timestamp="1606642674726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606642674726" />
+    <state width="1237" height="159" key="GridCell.Tab.1.right" timestamp="1606642674727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606642674727" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605595841741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605595841741" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1606030154537">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606030154537" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1605174668583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1605174668583" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1609070878535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609070878535" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605098396397">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605098396397" />
+    <state x="363" y="252" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605020024364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="252" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680@0.0.1280.680" timestamp="1605020024364" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getStudentInfor.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getStudentInfor.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geneHelpCardDoc.py</url>
+          <line>300</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/studentInfor$python36.coverage" NAME="python36 Coverage Results" MODIFIED="1604907390237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/studentInfor$geneTonjiCard.coverage" NAME="geneTonjiCard Coverage Results" MODIFIED="1606100308834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/studentInfor$geneHelpCardDoc_hj.coverage" NAME="geneHelpCardDoc_hj Coverage Results" MODIFIED="1607053196601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/海角" />
+    <SUITE FILE_PATH="coverage/studentInfor$geneTonjiCard_hj.coverage" NAME="geneTonjiCard_hj Coverage Results" MODIFIED="1607395011865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/海角/hjsr" />
+    <SUITE FILE_PATH="coverage/studentInfor$geneHelpCard.coverage" NAME="geneHelpCard Coverage Results" MODIFIED="1606118747928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/studentInfor$geneHelpCardDoc.coverage" NAME="geneHelpCardDoc Coverage Results" MODIFIED="1607512218402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

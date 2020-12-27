@@ -340,7 +340,7 @@ try:
             if cell_4n.find('耕地') != -1:
                 # 计算单项金额
                 first_4dict['gendi'] = cell_4r
-            elif cell_4n.find('生态林') != -1:
+            elif cell_4n.find('生态') != -1:
                 first_4dict['shengt'] = cell_4r
             elif cell_4n.find('残疾人生活津贴') != -1:
                 first_4dict['kuncj'] = cell_4r
@@ -368,7 +368,7 @@ try:
                     # 计算单项金额
                     first_4dict['gendi'] = cell_4r
 
-            elif cell_4n.find('生态林') != -1:
+            elif cell_4n.find('生态') != -1:
                 if 'shengt' in first_4dict.keys():
                     first_4dict['shengt'] = cell_4r + first_4dict['shengt']
                 else:

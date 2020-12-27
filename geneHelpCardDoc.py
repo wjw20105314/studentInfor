@@ -59,6 +59,8 @@ try:
         # 取在校生就读学校和年级
         cell_7ch = ws7['CH' + str(i)].value
         cell_7cd = ws7['CD' + str(i)].value
+        #在校生状态
+        cell_7cc = ws7['CC' + str(i)].value
         # 取是否劳动力
         cell_7ci = ws7['CI' + str(i)].value
         # 取个人低保五保属性
@@ -78,7 +80,7 @@ try:
         hu_7dict['a2'] = cell_7by
         hu_7dict['a3'] = cell_7bp
         hu_7dict['a4'] = cell_7bx
-        hu_7dict['a5'] = cell_7ch + cell_7cd
+        hu_7dict['a5'] = cell_7cd
         hu_7dict['a6'] = cell_7ci
         hu_7dict['a7'] = cell_7dg
         hu_7dict['a8'] = cell_7cq + cell_7cr
@@ -156,12 +158,14 @@ try:
         hu_6dict = {}
         hu_6dict['cun'] = cun
         hu_6dict['hu'] = cell_6g
+        hu_6dict['huma'] = cell_6h
         hu_6dict['reson'] = cell_6ah + ',' + cell_6ai
         hu_6dict['shux'] = cell_6ad
         hu_6dict['laod'] = cell_6w
         hu_6dict['tuop'] = tuop
         hu_6dict['weifn'] = cell_6bx
         hu_6dict['weifd'] = cell_6bw
+
         context6[key6] = hu_6dict
 
     # 3.读取个人措施查询
@@ -190,12 +194,14 @@ try:
         cell_3w = float(ws3['W' + str(i)].value)
         # 取实际投入，教育，养老
         cell_3y = float(ws3['Y' + str(i)].value)
+        #取项目状态
+        cell_3z = ws3['Z' + str(i)].value
         # 添加人员信息
         # 判断key是否存在，不存在则新加
         if key3 not in context3.keys():
             first_3dict = {}
             # 教育保障
-            if cell_3p == '教育扶贫':
+            if cell_3p == '教育扶贫' and cell_3z == '自动导入':
                 # 放入人数和教育生活补助
                 first_3dict['jyren'] = 1
                 first_3dict['jybu'] = cell_3y
@@ -231,7 +237,7 @@ try:
             # 存在则取出处理
             first_3dict = context3[key3]
             # 教育保障
-            if cell_3p == '教育扶贫':
+            if cell_3p == '教育扶贫' and cell_3z == '自动导入':
                 # 放入人数和教育生活补助
                 if 'jyren' in first_3dict.keys():
                     first_3dict['jyren'] = first_3dict['jyren'] + 1
@@ -318,7 +324,7 @@ try:
             if cell_4n.find('耕地') != -1:
                 # 计算单项金额
                 first_4dict['gendi'] = cell_4r
-            elif cell_4n.find('生态林') != -1:
+            elif cell_4n.find('生态') != -1:
                 first_4dict['shengt'] = cell_4r
             elif cell_4n.find('残疾人生活津贴') != -1:
                 first_4dict['kuncj'] = cell_4r
@@ -330,7 +336,9 @@ try:
                 # 总额
                 first_4dict['guerjin'] = cell_4r
                 # 计入其他
-                first_4dict['zhengqt'] = cell_4r
+                #first_4dict['zhengqt'] = cell_4r
+            elif cell_4n.find('低保')!= -1 or cell_4n.find('五保') != -1:
+                continue
             else:
                 # 统计其他
                 first_4dict['zhengqt'] = cell_4r
@@ -346,7 +354,7 @@ try:
                     # 计算单项金额
                     first_4dict['gendi'] = cell_4r
 
-            elif cell_4n.find('生态林') != -1:
+            elif cell_4n.find('生态') != -1:
                 if 'shengt' in first_4dict.keys():
                     first_4dict['shengt'] = cell_4r + first_4dict['shengt']
                 else:
@@ -374,11 +382,13 @@ try:
                 else:
                     first_4dict['guerjin'] = cell_4r
                     # 统计其他
-                    if 'zhengqt' in first_4dict.keys():
-                        first_4dict['zhengqt'] = cell_4r + first_4dict['zhengqt']
-                    else:
-                        first_4dict['zhengqt'] = cell_4r
+                    #if 'zhengqt' in first_4dict.keys():
+                    #    first_4dict['zhengqt'] = cell_4r + first_4dict['zhengqt']
+                   # else:
+                       # first_4dict['zhengqt'] = cell_4r
 
+            elif  cell_4n.find('低保')!= -1 or cell_4n.find('五保') != -1:
+                continue
             else:
                 # 统计其他
                 if 'zhengqt' in first_4dict.keys():
@@ -468,10 +478,10 @@ try:
         cell_2aa = float(ws2['AA' + str(i)].value)
         # 医疗救助
         cell_2ab = float(ws2['AB' + str(i)].value)
-        # 慰问金
-        cell_2ac = float(ws2['AC' + str(i)].value)
-        # 以奖代补
-        cell_2ad = float(ws2['AD' + str(i)].value)
+        # 其他转移性收入
+        cell_2z = float(ws2['Z' + str(i)].value)
+        # 生态林
+        cell_2y = float(ws2['Y' + str(i)].value)
         # 总支出
         cell_2ae = float(ws2['AE' + str(i)].value)
         # 生成经营性支出
@@ -494,6 +504,10 @@ try:
         cell_2w = float(ws2['w' + str(i)].value)
         # 养老金yangn
         cell_2x = float(ws2['X' + str(i)].value)
+        #计划生育金
+        cell_2u = float(ws2['U' + str(i)].value)
+        # 以奖代补
+        cell_2ad = float(ws2['AD' + str(i)].value)
         # 添加人员信息
         hu_2dict = {}
         # 取总收入
@@ -512,10 +526,12 @@ try:
         # 医疗救助
         hu_2dict['jyijiuzhu'] = cell_2ab
         hu_2dict['yij'] = cell_2ab
-        # 慰问金
-        hu_2dict['jweijin'] = cell_2ac
-        # 以奖代补
-        hu_2dict['jiajiangbu'] = cell_2ad
+
+        # 其他转移性收入
+        hu_2dict['qtzzsr'] = cell_2z
+        # 生态林
+        hu_2dict['szshengt'] = cell_2y
+        hu_2dict['yjdb'] = cell_2ad
         # 总支出
         hu_2dict['jtzongz'] = cell_2ae
         # 生成经营性支出
@@ -537,6 +553,8 @@ try:
         hu_2dict['wujin'] = cell_2w
         #养老金yangn
         hu_2dict['yangn'] = cell_2x
+        #计划生育金
+        hu_2dict['jhsyj'] = cell_2u
 
         context2[key2] = hu_2dict
 
@@ -635,8 +653,11 @@ try:
             if str(oriValue) in (''):
                 dict_2[keyRepalce] = '--'
              #替换危房年度
-            if keyRepalce == 'weifn' and str(oriValue) =='0':
+            if keyRepalce == 'weifn' and str(oriValue) in ('0',''):
                 dict_2[keyRepalce] = '--'
+
+        if dict_2['weifn'] == '--':
+            dict_2['wgbz'] = '--'
 
         if 'jyren' not in dict_2.keys():
             dict_2['jyren'] = '--'
